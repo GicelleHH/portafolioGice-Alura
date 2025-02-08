@@ -1,10 +1,12 @@
 ﻿# Portafolio-Curso3
 # Portafolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
+![portafolioGice](https://github.com/user-attachments/assets/f4b2ec57-d01e-4aa9-8006-50a988e0d29d)
+
 ## Herramientas utilizadas:
 
 * HTML
+
 
 * CSS
 
@@ -12,4 +14,4 @@
 
 ## Hecho por:
 
-###Gicelle Hernandez
+### Gicelle Hernandez
